@@ -29,3 +29,19 @@ pip install protobuf
 cd dy-live-collection   # 先进入 dy-live-collection 目录
 protoc --python_out=.  protobuf/dy.proto 
 ```
+
+### 运行
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+
+### 打包
+```bash
+## MacOS
+pyinstaller main.py --add-data "static/*:static/" # 打包成文件夹
+
+## Windows
+pyinstaller main.py --add-data "static/*;static/" # 打包成文件夹
+```
