@@ -1,7 +1,7 @@
 # 通过python获取抖音直播弹幕、点赞、礼物等信息
-目录**douyin-live**是从github上的项目[dy-live-collection](https://github.com/Nothing-lin/dy-live-collection)上克隆下来的。
+目录**dy-live-collection**是从github上的项目[dy-live-collection](https://github.com/Nothing-lin/dy-live-collection)上克隆下来的。
 
-目录**dy-live-collection**是从github上的项目[douyin-live](https://github.com/Sjj1024/douyin-live)克隆下来的。 DJ注销掉了一些目前用不到的代码，以及额外加了一些注释
+目录**douyin-live**是从github上的项目[douyin-live](https://github.com/Sjj1024/douyin-live)克隆下来的。 DJ注销掉了一些目前用不到的代码，以及额外加了一些注释
 
 
 # dy-live-collection 
